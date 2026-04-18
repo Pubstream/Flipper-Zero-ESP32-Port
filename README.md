@@ -8,6 +8,7 @@ Join the [Flipper Zero meets ESP32 - Discord](https://discord.gg/5DnAqFXaBC) for
 ## Supported Boards
 ![img](pic1.jpg)
 
+
 | Board                                   | MCU | Display | Input | SubGHz | NFC | IR | SD Card |
 |-----------------------------------------|-----|---------|-------|--------|-----|-----|---------|
 | **LilyGo T-Embed CC1101**               | ESP32-S3 (Xtensa LX7) | ST7789 320x170 | Rotary encoder + button | CC1101 | PN532 (I2C) | TX + RX | SPI |
